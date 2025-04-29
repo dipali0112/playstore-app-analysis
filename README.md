@@ -96,7 +96,6 @@ The project includes various visualizations to better understand trends and rela
 - **Bar Charts**: To show the distribution of app categories and types (free vs paid).
 - **Scatter Plots**: To examine the relationship between app size, installs, and ratings.
 - **Pie Charts**: To visualize the sentiment distribution of user reviews.
-- **Heatmaps**: To understand correlations between various app features (e.g., rating vs installs).
 
 ---
 
